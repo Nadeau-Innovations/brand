@@ -6,15 +6,15 @@ Branding, logos, and marketing media for Nadeau Innovations
 
 ### Icon
 
-![Logo](media/png/logo_LOGO%20COLOUR.png)
+![Logo](media/png/logo-icon_LOGO-COLOUR.png)
 
 ### Horizontal Logo
 
-![Horizontal logo](media/png/logo_H%20COLOUR.png)
+![Horizontal logo](media/png/logo_H-COLOUR.png)
 
 ### Vertical Logo
 
-![Vertical logo](media/png/logo_V%20COLOUR.png)
+![Vertical logo](media/png/logo_V-COLOUR.png)
 
 
 ## Colour Palette
