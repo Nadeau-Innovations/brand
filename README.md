@@ -16,7 +16,7 @@ MVV [guide and examples pulled from Bâton Global](https://www.batonglobal.com/p
 > It should be brief, clear, informative, simple and direct.
 > It should avoid elaborate language, clichés, and generalizations and it should emphasize outcomes and the people the organization is serving.
 
-Empower technical teams and and startups to effectively and efficiently jumpstart innovation.
+Empower technical teams and startups to effectively and efficiently jumpstart innovation.
 
 ### Vision
 
