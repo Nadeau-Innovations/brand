@@ -72,4 +72,4 @@ Democratize technical innovation and streamline startup success.
 
 Visualized by [coolors](https://coolors.co/2e3b5b-3f517d-eac65a-f6e5b4-212121-757575):
 
-![Palette](media/palette.png)
+![Palette](palette.png)
