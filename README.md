@@ -47,18 +47,17 @@ Democratize technical innovation and streamline startup success.
 
 ### Icon
 
-![Logo](media/png/logo-icon_LOGO-COLOUR.png)
+![Logo](logo/png/logo-icon_LOGO-COLOUR.png)
 
 ### Horizontal Logo
 
-![Horizontal logo](media/png/logo_H-COLOUR.png)
+![Horizontal logo](logo/png/logo_H-COLOUR.png)
 
 ### Vertical Logo
 
-![Vertical logo](media/png/logo_V-COLOUR.png)
+![Vertical logo](logo/png/logo_V-COLOUR.png)
 
-
-## Colour Palette
+## Color Palette
 
 | Element        | Hex     |
 | -------------- | ------- |
