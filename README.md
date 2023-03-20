@@ -1,38 +1,30 @@
-# Nadeau Innovations - Brand
+# Nadeau Innovations - Brand <!-- omit from toc -->
 
 Branding, logos, and marketing media for Nadeau Innovations
 
-## Mission, Vision, and Values (MVV)
 
-### Mission
+- [Links and Assets](#links-and-assets)
+- [Logos](#logos)
+- [Colour Palette](#colour-palette)
 
-Empower corporate innovation and startups to effectively and efficiently jumpstart innovation.
 
-### Vision
+## Links and Assets
 
-Democratize technical innovation and streamline startup success.
-
-### Values
-
-- Purpose: We democratize innovation
-- Innovation: We build creative solutions for real-world problems
-- Empowered: We promote ownership and responsibility in our work
+| Item                              | Link                                                            |
+| --------------------------------- | --------------------------------------------------------------- |
+| Mission, Vision, and Values (MVV) | https://nadeauinnovations.com/about/                            |
+| Logos                             | https://github.com/Nadeau-Innovations/brand/tree/main/logo      |
+| Press Kit                         | https://github.com/Nadeau-Innovations/brand/tree/main/press-kit |
 
 ## Logos
 
-### Icon
+| Type            | Image                                          |
+| --------------- | ---------------------------------------------- |
+| Icon            | ![Logo](logo/png/logo-icon_LOGO-COLOUR.png)    |
+| Horizontal Logo | ![Horizontal logo](logo/png/logo_H-COLOUR.png) |
+| Vertical Logo   | ![Vertical logo](logo/png/logo_V-COLOUR.png)   |
 
-![Logo](logo/png/logo-icon_LOGO-COLOUR.png)
-
-### Horizontal Logo
-
-![Horizontal logo](logo/png/logo_H-COLOUR.png)
-
-### Vertical Logo
-
-![Vertical logo](logo/png/logo_V-COLOUR.png)
-
-## Color Palette
+## Colour Palette
 
 | Element        | Hex     |
 | -------------- | ------- |
